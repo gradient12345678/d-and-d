@@ -1,0 +1,4 @@
+#Dynamically calculated blood values - DON'T EDIT
+farlanders:mystic_enderminion=15
+mocreatures:fox=4
+iceandfire:hippocampus=15
